@@ -12,6 +12,7 @@ Blog server with mongooseDB. Used mongooseDB as a database for storing blog post
 - For multiple *for generating web pages that can include dynamic data and can share templated pieces with other web pages*
 - ejs.co
 
+![ejs](https://user-images.githubusercontent.com/94203408/154403247-cfdb792f-aa1f-4a23-a0bf-dd278238837c.png)
 
 
 ```
