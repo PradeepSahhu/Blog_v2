@@ -13,6 +13,7 @@ Blog server with mongooseDB. Used mongooseDB as a database for storing blog post
 - ejs.co
 
 
+
 ```
 let ejs = require('ejs');
 let people = ['geddy', 'neil', 'alex'];
